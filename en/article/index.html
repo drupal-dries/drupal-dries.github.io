@@ -3,16 +3,15 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'html' -->
 <!-- FILE NAME SUGGESTIONS:
-   * html--filter--tips.html.twig
-   * html--filter.html.twig
+   * html--article.html.twig
    x html.html.twig
 -->
 <!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/html.html.twig' -->
 <!DOCTYPE html>
-<html lang="ja" dir="ltr" style="--bs-primary:#1475AD;--bb-primary-dark:#116494;--bb-primary-light:#fff;--bs-primary-rgb:20, 117, 173;--bs-secondary:#1B9AE4;--bb-secondary-dark:#1783c2;--bs-secondary-rgb:27, 154, 228;--bs-link-color:#1475AD;--bs-link-hover-color:#116494;--bs-body-color:black;--bs-body-bg:white;--bb-h1-color:primary;--bb-h2-color:base;--bb-h3-color:base;">
+<html lang="en" dir="ltr" style="--bs-primary:#1475AD;--bb-primary-dark:#116494;--bb-primary-light:#fff;--bs-primary-rgb:20, 117, 173;--bs-secondary:#1B9AE4;--bb-secondary-dark:#1783c2;--bs-secondary-rgb:27, 154, 228;--bs-link-color:#1475AD;--bs-link-hover-color:#116494;--bs-body-color:black;--bs-body-bg:white;--bb-h1-color:primary;--bb-h2-color:base;--bb-h3-color:base;">
   <head>
     <meta charset="utf-8" />
-<link rel="canonical" href="http://127.0.0.1/ja/filter/tips" />
+<link rel="canonical" href="http://127.0.0.1/en/article" />
 <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
@@ -20,7 +19,7 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 <link rel="icon" href="/core/misc/favicon.ico" type="image/vnd.microsoft.icon" />
 
-    <title>コンテンツ作成のヒント | ドリスと語るDrupal交流会 2024</title>
+    <title>News | Drupal Networking with Dries in Tokyo 2024</title>
     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?sa4x3l" />
 <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?sa4x3l" />
 <link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?sa4x3l" />
@@ -43,6 +42,7 @@
 <link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?sa4x3l" />
 <link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?sa4x3l" />
 <link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?sa4x3l" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?sa4x3l" />
 <link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css" />
 <link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v6.4.0/css/v4-shims.css" />
 <link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/variables.css?sa4x3l" />
@@ -92,9 +92,9 @@
 
     
   </head>
-  <body class="layout-no-sidebars path-filter">
+  <body class="layout-no-sidebars page-view-article path-article">
     <a href="#main-content" class="visually-hidden-focusable">
-      メインコンテンツに移動
+      Skip to main content
     </a>
     
     
@@ -108,8 +108,7 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'page' -->
 <!-- FILE NAME SUGGESTIONS:
-   * page--filter--tips.html.twig
-   * page--filter.html.twig
+   * page--article.html.twig
    x page.html.twig
 -->
 <!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/page.html.twig' -->
@@ -164,7 +163,7 @@
 <!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/navigation/links--language-block.html.twig' -->
 
 
-  <nav class="links nav links-inline"><span hreflang="ja" data-drupal-link-system-path="filter/tips" class="ja nav-link is-active"><a href="/ja/filter/tips" class="language-link is-active" hreflang="ja" data-drupal-link-system-path="filter/tips">ja</a></span><span hreflang="en" data-drupal-link-system-path="filter/tips" class="en nav-link"><a href="/en/filter/tips" class="language-link" hreflang="en" data-drupal-link-system-path="filter/tips">en</a></span></nav>
+  <nav class="links nav links-inline"><span hreflang="ja" data-drupal-link-system-path="article" class="ja nav-link"><a href="/ja/article" class="language-link" hreflang="ja" data-drupal-link-system-path="article">ja</a></span><span hreflang="en" data-drupal-link-system-path="article" class="en nav-link is-active"><a href="/en/article" class="language-link is-active" hreflang="en" data-drupal-link-system-path="article">en</a></span></nav>
 
 <!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/navigation/links--language-block.html.twig' -->
 
@@ -210,8 +209,8 @@
    
 -->
 <!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/block/block--system-branding-block.html.twig' -->
-      <a href="/ja" title="ホーム" rel="home" class="navbar-brand">
-            ドリスと語るDrupal交流会 2024
+      <a href="/en" title="Home" rel="home" class="navbar-brand">
+            Drupal Networking with Dries in Tokyo 2024
     </a>
     
 <!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/block/block--system-branding-block.html.twig' -->
@@ -267,16 +266,16 @@
 
               <ul class="clearfix nav navbar-nav">
                     <li class="nav-item">
-                          <a href="/ja#overview" class="nav-link nav-link--jaoverview" data-drupal-link-system-path="&lt;front&gt;">概要</a>
+                          <a href="/en#overview" class="nav-link nav-link--enoverview" data-drupal-link-system-path="&lt;front&gt;">Overview</a>
               </li>
                 <li class="nav-item">
-                          <a href="/ja#block-news" class="nav-link nav-link--jablock-news" data-drupal-link-system-path="&lt;front&gt;">お知らせ</a>
+                          <a href="/en#block-news" class="nav-link nav-link--enblock-news" data-drupal-link-system-path="&lt;front&gt;">News</a>
               </li>
                 <li class="nav-item">
-                          <a href="/ja#timetable" class="nav-link nav-link--jatimetable" data-drupal-link-system-path="&lt;front&gt;">タイムテーブル</a>
+                          <a href="/en#timetable" class="nav-link nav-link--entimetable" data-drupal-link-system-path="&lt;front&gt;">Timetable</a>
               </li>
                 <li class="nav-item">
-                          <a href="/ja#block-sponsors" class="nav-link nav-link--jablock-sponsors" data-drupal-link-system-path="&lt;front&gt;">ご協力・ご協賛</a>
+                          <a href="/en#block-sponsors" class="nav-link nav-link--enblock-sponsors" data-drupal-link-system-path="&lt;front&gt;">Sponsors</a>
               </li>
         </ul>
   
@@ -322,7 +321,7 @@
 
               <ul class="clearfix nav">
                     <li class="nav-item">
-                <a href="https://connpass.com/event/307570/" class="nav-link nav-link-https--connpasscom-event-307570-">参加申し込み</a>
+                <a href="https://connpass.com/event/307570/" class="nav-link nav-link-https--connpasscom-event-307570-">Register Here</a>
               </li>
         </ul>
   
@@ -415,183 +414,561 @@
       
 
 <!-- THEME DEBUG -->
-<!-- THEME HOOK: 'filter_tips' -->
-<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/content-edit/filter-tips.html.twig' -->
-  <h2>テキストフォーマット</h2>
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+<div class="views-element-container">
 
-      <div class="compose-tips">
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view.html.twig' -->
+<div class="view view-article view-id-article view-display-id-page_1 js-view-dom-id-078a7de5b212ff391a51c270ede452ad17e954dab558990067f3f75b8b75af55">
   
-                  <div class="filter-type filter-制限付き-html">
-      <h3>制限付き HTML</h3>
     
-          <ul class="tips">
-                      <li class="filter-filter_html"><p>使用できるHTMLタグ: &lt;a href hreflang&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;blockquote cite&gt; &lt;code&gt; &lt;ul type&gt; &lt;ol start type&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt; &lt;h2 id&gt; &lt;h3 id&gt; &lt;h4 id&gt; &lt;h5 id&gt; &lt;h6 id&gt;</p><p>このサイトでは、HTML文書を入力することができます。すべてのHTML構文を学習するのは大変に感じるかもしれませんが、ごく少数の基本的なHTMLタグを利用するのは非常に簡単です。この表に入力可能なタグの例があります。</p><p>For more information see the <a href="https://html.spec.whatwg.org/">HTML Living Standard</a> or use your favorite search engine to find other sites that explain HTML.</p>
-
-
-
-
-
-<div class="table-responsive">
-<table class="responsive-enabled table table-hover table-striped" data-striping="1">
-  
-  
-      <thead class=''>
-      <tr>
-                            <th>タグの説明</th>
-                            <th>入力文</th>
-                            <th>表示例</th>
-              </tr>
-    </thead>
-  
-      <tbody>
-                      <tr class="odd">
-                      <td class="description">アンカーは他ページへのリンク作成に使用します。</td>
-                      <td class="type"><code>&lt;a href=&quot;http://127.0.0.1&quot;&gt;ドリスと語るDrupal交流会 2024&lt;/a&gt;</code></td>
-                      <td class="get"><a href="http://127.0.0.1">ドリスと語るDrupal交流会 2024</a></td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">強調</td>
-                      <td class="type"><code>&lt;em&gt;強調&lt;/em&gt;</code></td>
-                      <td class="get"><em>強調</em></td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description">強調</td>
-                      <td class="type"><code>&lt;strong&gt;強調&lt;/strong&gt;</code></td>
-                      <td class="get"><strong>強調</strong></td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">引用</td>
-                      <td class="type"><code>&lt;cite&gt;引用&lt;/cite&gt;</code></td>
-                      <td class="get"><cite>引用</cite></td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description">ブロック引用</td>
-                      <td class="type"><code>&lt;blockquote&gt;ブロック引用&lt;/blockquote&gt;</code></td>
-                      <td class="get"><blockquote>ブロック引用</blockquote></td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">テキストをプログラムのソースコードとして明示するために使われます。</td>
-                      <td class="type"><code>&lt;code&gt;コード&lt;/code&gt;</code></td>
-                      <td class="get"><code>コード</code></td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description">順序なしリスト - 各リスト項目を &lt;li&gt;&lt;/li&gt; で囲み、全体を &lt;ul&gt;&lt;/ul&gt; で囲みます。</td>
-                      <td class="type"><code>&lt;ul&gt; &lt;li&gt;1番目の項目&lt;/li&gt; &lt;li&gt;2番目の項目&lt;/li&gt; &lt;/ul&gt;</code></td>
-                      <td class="get"><ul> <li>1番目の項目</li> <li>2番目の項目</li> </ul></td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">順序付きリスト - 各リスト項目を &lt;li&gt;&lt;/li&gt; で囲み、全体を &lt;ol&gt;&lt;/ol&gt; で囲みます。</td>
-                      <td class="type"><code>&lt;ol&gt; &lt;li&gt;1番目の項目&lt;/li&gt; &lt;li&gt;2番目の項目&lt;/li&gt; &lt;/ol&gt;</code></td>
-                      <td class="get"><ol> <li>1番目の項目</li> <li>2番目の項目</li> </ol></td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description" colspan="3"><em class="placeholder">li</em> タグのヘルプはありません。</td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">定義リストは他の HTML リストと似ています。 定義用語を &lt;dt&gt;&lt;/dt&gt; 、その用語の説明を&lt;dd&gt;&lt;/dd&gt; で囲み、全体を &lt;dl&gt;&lt;/dl&gt; で囲みます。</td>
-                      <td class="type"><code>&lt;dl&gt; &lt;dt&gt;1番目の用語&lt;/dt&gt; &lt;dd&gt;1番目の定義&lt;/dd&gt; &lt;dt&gt;2番目の用語&lt;/dt&gt; &lt;dd&gt;2番目の定義&lt;/dd&gt; &lt;/dl&gt;</code></td>
-                      <td class="get"><dl> <dt>1番目の用語</dt> <dd>1番目の定義</dd> <dt>2番目の用語</dt> <dd>2番目の定義</dd> </dl></td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description" colspan="3"><em class="placeholder">dt</em> タグのヘルプはありません。</td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description" colspan="3"><em class="placeholder">dd</em> タグのヘルプはありません。</td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description">見出し1</td>
-                      <td class="type"><code>&lt;h2&gt;見出し2&lt;/h2&gt;</code></td>
-                      <td class="get"><h2>見出し2</h2></td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">見出し1</td>
-                      <td class="type"><code>&lt;h3&gt;見出し3&lt;/h3&gt;</code></td>
-                      <td class="get"><h3>見出し3</h3></td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description">見出し1</td>
-                      <td class="type"><code>&lt;h4&gt;見出し4&lt;/h4&gt;</code></td>
-                      <td class="get"><h4>見出し4</h4></td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">見出し1</td>
-                      <td class="type"><code>&lt;h5&gt;見出し5&lt;/h5&gt;</code></td>
-                      <td class="get"><h5>見出し5</h5></td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description">見出し1</td>
-                      <td class="type"><code>&lt;h6&gt;見出し6&lt;/h6&gt;</code></td>
-                      <td class="get"><h6>見出し6</h6></td>
-                  </tr>
-          </tbody>
-    </table>
-</div>
-
-
-<p>ほとんどの特殊文字は問題なく入力できます。</p><p>もし表示がおかしくなった場合は、HTML文字実体参照を試してみてください。たとえば、アンパサンド &amp; を &amp;amp; と入力します。文字実体参照の完全なリストは、HTMLの <a href="http://www.w3.org/TR/html4/sgml/entities.html">実体参照</a>ページをご覧ください。</p>
-
-
-
-
-
-<div class="table-responsive">
-<table class="responsive-enabled table table-hover table-striped" data-striping="1">
-  
-  
-      <thead class=''>
-      <tr>
-                            <th>文字の説明</th>
-                            <th>入力文</th>
-                            <th>表示例</th>
-              </tr>
-    </thead>
-  
-      <tbody>
-                      <tr class="odd">
-                      <td class="description">アンパサンド(&amp;)</td>
-                      <td class="type"><code>&amp;amp;</code></td>
-                      <td class="get">&amp;</td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">大なり記号(&gt;)</td>
-                      <td class="type"><code>&amp;gt;</code></td>
-                      <td class="get">&gt;</td>
-                  </tr>
-                      <tr class="odd">
-                      <td class="description">小なり記号(&lt;)</td>
-                      <td class="type"><code>&amp;lt;</code></td>
-                      <td class="get">&lt;</td>
-                  </tr>
-                      <tr class="even">
-                      <td class="description">引用符(&quot;)</td>
-                      <td class="type"><code>&amp;quot;</code></td>
-                      <td class="get">&quot;</td>
-                  </tr>
-          </tbody>
-    </table>
-</div>
-
-
-</li>
-                      <li class="filter-filter_autop">改行と段落を自動で認識します。&lt;br /&gt; 改行タグおよび &lt;p&gt; 段落タグと &lt;/p&gt; 段落の終了タグが自動で挿入されます。段落が認識されなければ、単純に空白行の組を追加します。</li>
-                      <li class="filter-filter_url">ウェブページのアドレスとメールアドレスは自動的にリンクに変換されます。</li>
-            </ul>
-    
-          </div>
-                      <div class="filter-type filter-プレーンテキスト">
-      <h3>プレーンテキスト</h3>
-    
-          <ul class="tips">
-                      <li class="filter-filter_html_escape">HTMLタグは利用できません。</li>
-                      <li class="filter-filter_autop">改行と段落を自動で認識します。&lt;br /&gt; 改行タグおよび &lt;p&gt; 段落タグと &lt;/p&gt; 段落の終了タグが自動で挿入されます。段落が認識されなければ、単純に空白行の組を追加します。</li>
-                      <li class="filter-filter_url">ウェブページのアドレスとメールアドレスは自動的にリンクに変換されます。</li>
-            </ul>
-    
-          </div>
       
-      </div>
+      <div class="view-content row">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig' -->
+    <div class="col-md mb-3 views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'ds_entity_view' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-entity-view.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'ds_1col' -->
+<!-- FILE NAME SUGGESTIONS:
+   * ds-1col--node--8.html.twig
+   * ds-1col--node-article-teaser.html.twig
+   * ds-1col--node-article.html.twig
+   * ds-1col--node-teaser.html.twig
+   * ds-1col--node.html.twig
+   x ds-1col.html.twig
+   x ds-1col.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-1col.html.twig' -->
+<div class="h-100 card node node--type-article node--view-mode-teaser ds-1col clearfix">
+
   
-<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/content-edit/filter-tips.html.twig' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--field-media--article.html.twig
+   * field--node--field-media.html.twig
+   * field--node--article.html.twig
+   * field--field-media.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img loading="lazy" src="/sites/default/files/styles/300_x_200/public/2024-03/colorful-party-plates.jpg?itok=UVA7xvoH" width="600" height="400" alt="party" class="image-style-_00-x-200" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-style.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+      
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field_group_html_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field-group-html-element--node--article--group-card-body.html.twig
+   * field-group-html-element--node--article--div.html.twig
+   * field-group-html-element--node--group-card-body.html.twig
+   * field-group-html-element--node--article.html.twig
+   * field-group-html-element--node--div.html.twig
+   * field-group-html-element--group-card-body.html.twig
+   * field-group-html-element--article.html.twig
+   * field-group-html-element--node.html.twig
+   * field-group-html-element--div.html.twig
+   x field-group-html-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/field_group/templates/field-group-html-element.html.twig' -->
+
+<div  class="card-body">
+      <a href="/en/article/coming-event-within-1-weeks" class="field-group-link stretched-link" hreflang="en">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--expert--node--node-post-date--article---custom.html.twig
+   * field--expert--node--node-post-date--article.html.twig
+   * field--expert--node--article---custom.html.twig
+   * field--expert--node--article.html.twig
+   * field--expert--node--node-post-date.html.twig
+   * field--expert--node-post-date--article---custom.html.twig
+   * field--expert--node-post-date--article.html.twig
+   * field--expert--article---custom.html.twig
+   * field--expert--article.html.twig
+   * field--expert--node-post-date.html.twig
+   * field--expert.html.twig
+   * field--ds-field-expert.html.twig
+   * field--node--node-post-date--article.html.twig
+   * field--node--node-post-date.html.twig
+   * field--node--article.html.twig
+   * field--node-post-date.html.twig
+   * field--ds.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-field-expert.html.twig' -->
+      <span  class="badge text-bg-light mb-2">
+        
+            March 09, 2024
+      
+  
+    </span>
+
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-field-expert.html.twig' -->
+
+</a>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--node-title--article.html.twig
+   * field--node--node-title.html.twig
+   * field--node--article.html.twig
+   * field--node-title.html.twig
+   * field--ds.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+            <div class="field field--name-node-title field--type-ds field--label-hidden field__item"><h5>
+  More than 100 people have registered for the event!
+</h5>
+</div>
+      
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'modules/contrib/field_group/templates/field-group-html-element.html.twig' -->
+
+
+
+</div>
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-1col.html.twig' -->
+
+
+
+
+
+
+
+
+
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-entity-view.html.twig' -->
+
+
+  </div>
+    <div class="col-md mb-3 views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'ds_entity_view' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-entity-view.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'ds_1col' -->
+<!-- FILE NAME SUGGESTIONS:
+   * ds-1col--node--7.html.twig
+   * ds-1col--node-article-teaser.html.twig
+   * ds-1col--node-article.html.twig
+   * ds-1col--node-teaser.html.twig
+   * ds-1col--node.html.twig
+   x ds-1col.html.twig
+   x ds-1col.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-1col.html.twig' -->
+<div class="h-100 card node node--type-article node--view-mode-teaser ds-1col clearfix">
+
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--field-media--article.html.twig
+   * field--node--field-media.html.twig
+   * field--node--article.html.twig
+   * field--field-media.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img loading="lazy" src="/sites/default/files/styles/300_x_200/public/2024-03/camera-phone-laptop-a-photographer-s-desk.jpg?itok=a57Sw8wj" width="600" height="400" alt="camera" class="image-style-_00-x-200" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-style.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+      
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field_group_html_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field-group-html-element--node--article--group-card-body.html.twig
+   * field-group-html-element--node--article--div.html.twig
+   * field-group-html-element--node--group-card-body.html.twig
+   * field-group-html-element--node--article.html.twig
+   * field-group-html-element--node--div.html.twig
+   * field-group-html-element--group-card-body.html.twig
+   * field-group-html-element--article.html.twig
+   * field-group-html-element--node.html.twig
+   * field-group-html-element--div.html.twig
+   x field-group-html-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/field_group/templates/field-group-html-element.html.twig' -->
+
+<div  class="card-body">
+      <a href="/en/article/introducing-dries-blog-article" class="field-group-link stretched-link" hreflang="en">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--expert--node--node-post-date--article---custom.html.twig
+   * field--expert--node--node-post-date--article.html.twig
+   * field--expert--node--article---custom.html.twig
+   * field--expert--node--article.html.twig
+   * field--expert--node--node-post-date.html.twig
+   * field--expert--node-post-date--article---custom.html.twig
+   * field--expert--node-post-date--article.html.twig
+   * field--expert--article---custom.html.twig
+   * field--expert--article.html.twig
+   * field--expert--node-post-date.html.twig
+   * field--expert.html.twig
+   * field--ds-field-expert.html.twig
+   * field--node--node-post-date--article.html.twig
+   * field--node--node-post-date.html.twig
+   * field--node--article.html.twig
+   * field--node-post-date.html.twig
+   * field--ds.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-field-expert.html.twig' -->
+      <span  class="badge text-bg-light mb-2">
+        
+            March 04, 2024
+      
+  
+    </span>
+
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-field-expert.html.twig' -->
+
+</a>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--node-title--article.html.twig
+   * field--node--node-title.html.twig
+   * field--node--article.html.twig
+   * field--node-title.html.twig
+   * field--ds.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+            <div class="field field--name-node-title field--type-ds field--label-hidden field__item"><h5>
+  Dries&#039;s blog post was published!
+</h5>
+</div>
+      
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'modules/contrib/field_group/templates/field-group-html-element.html.twig' -->
+
+
+
+</div>
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-1col.html.twig' -->
+
+
+
+
+
+
+
+
+
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-entity-view.html.twig' -->
+
+
+  </div>
+    <div class="col-md mb-3 views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'ds_entity_view' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-entity-view.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'ds_1col' -->
+<!-- FILE NAME SUGGESTIONS:
+   * ds-1col--node--5.html.twig
+   * ds-1col--node-article-teaser.html.twig
+   * ds-1col--node-article.html.twig
+   * ds-1col--node-teaser.html.twig
+   * ds-1col--node.html.twig
+   x ds-1col.html.twig
+   x ds-1col.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-1col.html.twig' -->
+<div class="h-100 card node node--type-article node--view-mode-teaser ds-1col clearfix">
+
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--field-media--article.html.twig
+   * field--node--field-media.html.twig
+   * field--node--article.html.twig
+   * field--field-media.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img loading="lazy" src="/sites/default/files/styles/300_x_200/public/2024-03/iced-latte-at-coffee-shop-window.jpg?itok=lp7EtbZX" width="600" height="400" alt="iced latte" class="image-style-_00-x-200" />
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-style.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+      
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field_group_html_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field-group-html-element--node--article--group-card-body.html.twig
+   * field-group-html-element--node--article--div.html.twig
+   * field-group-html-element--node--group-card-body.html.twig
+   * field-group-html-element--node--article.html.twig
+   * field-group-html-element--node--div.html.twig
+   * field-group-html-element--group-card-body.html.twig
+   * field-group-html-element--article.html.twig
+   * field-group-html-element--node.html.twig
+   * field-group-html-element--div.html.twig
+   x field-group-html-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/field_group/templates/field-group-html-element.html.twig' -->
+
+<div  class="card-body">
+      <a href="/en/article/coming-event-within-3-weeks" class="field-group-link stretched-link" hreflang="en">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--expert--node--node-post-date--article---custom.html.twig
+   * field--expert--node--node-post-date--article.html.twig
+   * field--expert--node--article---custom.html.twig
+   * field--expert--node--article.html.twig
+   * field--expert--node--node-post-date.html.twig
+   * field--expert--node-post-date--article---custom.html.twig
+   * field--expert--node-post-date--article.html.twig
+   * field--expert--article---custom.html.twig
+   * field--expert--article.html.twig
+   * field--expert--node-post-date.html.twig
+   * field--expert.html.twig
+   * field--ds-field-expert.html.twig
+   * field--node--node-post-date--article.html.twig
+   * field--node--node-post-date.html.twig
+   * field--node--article.html.twig
+   * field--node-post-date.html.twig
+   * field--ds.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/ds/templates/ds-field-expert.html.twig' -->
+      <span  class="badge text-bg-light mb-2">
+        
+            February 23, 2024
+      
+  
+    </span>
+
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-field-expert.html.twig' -->
+
+</a>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--node-title--article.html.twig
+   * field--node--node-title.html.twig
+   * field--node--article.html.twig
+   * field--node-title.html.twig
+   * field--ds.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+            <div class="field field--name-node-title field--type-ds field--label-hidden field__item"><h5>
+  Let&#039;s make the event happen together!
+</h5>
+</div>
+      
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'modules/contrib/field_group/templates/field-group-html-element.html.twig' -->
+
+
+
+</div>
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-1col.html.twig' -->
+
+
+
+
+
+
+
+
+
+
+<!-- END OUTPUT from 'modules/contrib/ds/templates/ds-entity-view.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig' -->
+
+
+    </div>
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_mini_pager' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-mini-pager.html.twig' -->
+        
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-mini-pager.html.twig' -->
+
+
+          </div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
 
 
     </div>
@@ -668,17 +1045,13 @@
 
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"ja\/","currentPath":"filter\/tips","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"ja"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"user":{"uid":0,"permissionsHash":"782a64c3591edbdfa32e2565fc720eb0bcbf0d8f2c36138084abbc70a80d75e2"}}</script>
-<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
-<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
-<script src="/sites/default/files/languages/ja_t5BnPIRI_Bqk8CFmhRHqLzpWQ_pPpec_2gUHiq2bt8c.js?sa4x3l"></script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"article","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"field_group":{"html_element":{"mode":"teaser","context":"view","settings":{"classes":"card-body","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}},"link":{"mode":"teaser","context":"view","settings":{"classes":"stretched-link","show_empty_fields":false,"id":"","target":"entity","custom_uri":"","target_attribute":"default"}}},"user":{"uid":0,"permissionsHash":"782a64c3591edbdfa32e2565fc720eb0bcbf0d8f2c36138084abbc70a80d75e2"}}</script>
 <script src="/core/misc/drupalSettingsLoader.js?v=10.2.4"></script>
 <script src="/core/misc/drupal.js?v=10.2.4"></script>
 <script src="/core/misc/drupal.init.js?v=10.2.4"></script>
 <script src="/themes/contrib/bootstrap_barrio/js/barrio.js?v=10.2.4"></script>
 <script src="//cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="/themes/custom/mybarrio/js/global.js?v=10.2.4"></script>
-<script src="/core/misc/tableresponsive.js?v=10.2.4"></script>
 <script src="//cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 
   </body>
