@@ -1,0 +1,578 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_rss' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-rss.html.twig' -->
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xml:base="http://127.0.0.1/ja" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ドリスと語るDrupal交流会 2024</title>
+    <link>http://127.0.0.1/ja</link>
+    <description></description>
+    <language>ja</language>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>【開催まで1週間】イベント申し込みが100名を超えました！</title>
+  <link>http://127.0.0.1/ja/article/coming-event-within-1-weeks</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--article.html.twig
+   x field--node--title.html.twig
+   * field--node--article.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;【開催まで1週間】イベント申し込みが100名を超えました！&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--article.html.twig
+   x field--node--uid.html.twig
+   * field--node--article.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/user/username.html.twig&#039; --&gt;
+&lt;span&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--article.html.twig
+   x field--node--created.html.twig
+   * field--node--article.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;time&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/time.html.twig&#039; --&gt;
+&lt;time datetime=&quot;2024-03-09T09:08:26+00:00&quot; title=&quot;2024年3月9日(土曜日) - 09:08&quot; class=&quot;datetime&quot;&gt;2024/03/09(土) - 09:08&lt;/time&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/time.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * links--node.html.twig
+   x links--inline.html.twig
+   * links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig&#039; --&gt;
+
+
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Sat, 09 Mar 2024 09:08:26 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">8 at http://127.0.0.1</guid>
+    </item>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>ドリスのブログ記事が公開されました！</title>
+  <link>http://127.0.0.1/ja/article/introducing-dries-blog-article</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--article.html.twig
+   x field--node--title.html.twig
+   * field--node--article.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;ドリスのブログ記事が公開されました！&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--article.html.twig
+   x field--node--uid.html.twig
+   * field--node--article.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/user/username.html.twig&#039; --&gt;
+&lt;span&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--article.html.twig
+   x field--node--created.html.twig
+   * field--node--article.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;time&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/time.html.twig&#039; --&gt;
+&lt;time datetime=&quot;2024-03-09T09:01:19+00:00&quot; title=&quot;2024年3月9日(土曜日) - 09:01&quot; class=&quot;datetime&quot;&gt;2024/03/09(土) - 09:01&lt;/time&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/time.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * links--node.html.twig
+   x links--inline.html.twig
+   * links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig&#039; --&gt;
+
+
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Sat, 09 Mar 2024 09:01:19 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">7 at http://127.0.0.1</guid>
+    </item>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>【開催まで3週間】イベントを一緒に盛り上げよう！</title>
+  <link>http://127.0.0.1/ja/article/coming-event-within-3-weeks</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--article.html.twig
+   x field--node--title.html.twig
+   * field--node--article.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;【開催まで3週間】イベントを一緒に盛り上げよう！&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--article.html.twig
+   x field--node--uid.html.twig
+   * field--node--article.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/user/username.html.twig&#039; --&gt;
+&lt;span&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--article.html.twig
+   x field--node--created.html.twig
+   * field--node--article.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;time&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/time.html.twig&#039; --&gt;
+&lt;time datetime=&quot;2024-03-08T08:28:00+00:00&quot; title=&quot;2024年3月8日(金曜日) - 08:28&quot; class=&quot;datetime&quot;&gt;2024/03/08(金) - 08:28&lt;/time&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/time.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * links--node.html.twig
+   x links--inline.html.twig
+   * links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig&#039; --&gt;
+
+
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Fri, 08 Mar 2024 08:28:00 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">5 at http://127.0.0.1</guid>
+    </item>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>丸山 ひかる</title>
+  <link>http://127.0.0.1/ja/person/hikaru-maruyama</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;ds_entity_view&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;modules/contrib/ds/templates/ds-entity-view.html.twig&#039; --&gt;
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;ds_1col&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * ds-1col--node--4.html.twig
+   * ds-1col--node-person-rss.html.twig
+   * ds-1col--node-person.html.twig
+   * ds-1col--node-rss.html.twig
+   * ds-1col--node.html.twig
+   x ds-1col.html.twig
+   x ds-1col.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;modules/contrib/ds/templates/ds-1col.html.twig&#039; --&gt;
+&lt;div class=&quot;node node--type-person node--view-mode-rss ds-1col clearfix&quot;&gt;
+
+  
+
+  
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field_group_html_element&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field-group-html-element--node--person--group-container.html.twig
+   * field-group-html-element--node--person--div.html.twig
+   * field-group-html-element--node--group-container.html.twig
+   * field-group-html-element--node--person.html.twig
+   * field-group-html-element--node--div.html.twig
+   * field-group-html-element--group-container.html.twig
+   * field-group-html-element--person.html.twig
+   * field-group-html-element--node.html.twig
+   * field-group-html-element--div.html.twig
+   x field-group-html-element.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;modules/contrib/field_group/templates/field-group-html-element.html.twig&#039; --&gt;
+
+&lt;div  style=&quot;max-width: 900px&quot; class=&quot;container&quot;&gt;
+      
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field_group_html_element&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field-group-html-element--node--person--group-row.html.twig
+   * field-group-html-element--node--person--div.html.twig
+   * field-group-html-element--node--group-row.html.twig
+   * field-group-html-element--node--person.html.twig
+   * field-group-html-element--node--div.html.twig
+   * field-group-html-element--group-row.html.twig
+   * field-group-html-element--person.html.twig
+   * field-group-html-element--node.html.twig
+   * field-group-html-element--div.html.twig
+   x field-group-html-element.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;modules/contrib/field_group/templates/field-group-html-element.html.twig&#039; --&gt;
+
+&lt;div  class=&quot;row justify-content-md-center py-5 my-5&quot;&gt;
+      
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field_group_html_element&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field-group-html-element--node--person--group-col-left.html.twig
+   * field-group-html-element--node--person--div.html.twig
+   * field-group-html-element--node--group-col-left.html.twig
+   * field-group-html-element--node--person.html.twig
+   * field-group-html-element--node--div.html.twig
+   * field-group-html-element--group-col-left.html.twig
+   * field-group-html-element--person.html.twig
+   * field-group-html-element--node.html.twig
+   * field-group-html-element--div.html.twig
+   x field-group-html-element.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;modules/contrib/field_group/templates/field-group-html-element.html.twig&#039; --&gt;
+
+&lt;div  class=&quot;col&quot;&gt;
+      
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--field-media--person.html.twig
+   * field--node--field-media.html.twig
+   * field--node--person.html.twig
+   * field--field-media.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field.html.twig&#039; --&gt;
+
+            &lt;div class=&quot;img-fluid field field--name-field-media field--type-entity-reference field--label-hidden field__item&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;image_formatter&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig&#039; --&gt;
+  
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;image&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/image.html.twig&#039; --&gt;
+&lt;img loading=&quot;lazy&quot; src=&quot;/sites/default/files/2024-03/T025J29S7-ULXN2KBCK-bc9c81349b5a-512.jpeg&quot; width=&quot;512&quot; height=&quot;512&quot; alt=&quot;丸山 ひかる&quot; /&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/image.html.twig&#039; --&gt;
+
+
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig&#039; --&gt;
+
+&lt;/div&gt;
+      
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field.html.twig&#039; --&gt;
+
+
+  &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;modules/contrib/field_group/templates/field-group-html-element.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field_group_html_element&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field-group-html-element--node--person--group-col-right.html.twig
+   * field-group-html-element--node--person--div.html.twig
+   * field-group-html-element--node--group-col-right.html.twig
+   * field-group-html-element--node--person.html.twig
+   * field-group-html-element--node--div.html.twig
+   * field-group-html-element--group-col-right.html.twig
+   * field-group-html-element--person.html.twig
+   * field-group-html-element--node.html.twig
+   * field-group-html-element--div.html.twig
+   x field-group-html-element.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;modules/contrib/field_group/templates/field-group-html-element.html.twig&#039; --&gt;
+
+&lt;div  class=&quot;col col-8&quot;&gt;
+      
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--node-title--person.html.twig
+   * field--node--node-title.html.twig
+   * field--node--person.html.twig
+   * field--node-title.html.twig
+   * field--ds.html.twig
+   x field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field.html.twig&#039; --&gt;
+
+            &lt;div class=&quot;field field--name-node-title field--type-ds field--label-hidden field__item&quot;&gt;&lt;h1 class=&quot;py-3&quot;&gt;
+  丸山 ひかる
+&lt;/h1&gt;
+&lt;/div&gt;
+      
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--body--person.html.twig
+   * field--node--body.html.twig
+   * field--node--person.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+
+            &lt;div class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;独立系ソフトウェア開発会社でWeb APIの開発に携わったのちに、テクニカルエバンジェリストとしてプロダクトの普及に貢献。現在はAcquia(アクイア)でウェブサイトのコンテンツの技術翻訳やローカライズを担当。趣味は山登りとキャンプ飯。&lt;/p&gt;&lt;/div&gt;
+      
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--ds-field-default.html.twig
+   * field--node--dynamic-twig-field--node-drupal-account--person.html.twig
+   * field--node--dynamic-twig-field--node-drupal-account.html.twig
+   * field--node--person.html.twig
+   * field--dynamic-twig-field--node-drupal-account.html.twig
+   * field--ds.html.twig
+   x field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field.html.twig&#039; --&gt;
+
+            &lt;div class=&quot;field field--name-dynamic-twig-fieldnode-drupal-account field--type-ds field--label-hidden field__item&quot;&gt;&lt;span&gt;
+&lt;a class=&quot;btn btn-light btn-lg&quot; href=&quot;https://www.drupal.org/u/hmaruyama&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fab fa-drupal&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;span&gt;
+&lt;a class=&quot;btn btn-light btn-lg&quot; href=&quot;https://twitter.com/maruyamahiakru&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa-brands fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+      
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field.html.twig&#039; --&gt;
+
+
+  &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;modules/contrib/field_group/templates/field-group-html-element.html.twig&#039; --&gt;
+
+
+  &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;modules/contrib/field_group/templates/field-group-html-element.html.twig&#039; --&gt;
+
+
+  &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;modules/contrib/field_group/templates/field-group-html-element.html.twig&#039; --&gt;
+
+
+
+&lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;modules/contrib/ds/templates/ds-1col.html.twig&#039; --&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;!-- END OUTPUT from &#039;modules/contrib/ds/templates/ds-entity-view.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Thu, 07 Mar 2024 06:39:38 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">4 at http://127.0.0.1</guid>
+    </item>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-rss.html.twig' -->
+

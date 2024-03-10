@@ -1,0 +1,33 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+select.form-select {
+  font-size: 0.8rem;
+  border: none;
+ }
+
+#block-mybarrio-cta a {
+  color: white;
+  font-weight: bold;
+}
+
+#navbar-main a {
+  font-weight: bold;
+}
+
+#main.container {
+  max-width: 900px;
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+
+.node--type-person img {
+  padding: 0.25rem;
+  background-color: white;
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+  max-width: 100%;
+  height: auto;
+}
