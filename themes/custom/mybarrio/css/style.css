@@ -35,3 +35,18 @@ select.form-select {
 h2 {
   margin-bottom: 30px !important;
 }
+
+.mybarrio-img-fluid {
+  margin-right: calc(50% - 50vw);
+  margin-left: calc(50% - 50vw);
+}
+
+.mybarrio-img-fluid img {
+  display: block;
+  max-width: 100vw !important;
+  height: auto !important;
+}
+
+.mybarrio-rounded img {
+  border-radius: var(--bs-border-radius) !important;
+}
