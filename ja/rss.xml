@@ -17,6 +17,106 @@
 <!-- THEME HOOK: 'views_view_row_rss' -->
 <!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
 <item>
+  <title>サイトをオープンしました！</title>
+  <link>http://127.0.0.1/ja/article/published-event-website</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--article.html.twig
+   x field--node--title.html.twig
+   * field--node--article.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;サイトをオープンしました！&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--article.html.twig
+   x field--node--uid.html.twig
+   * field--node--article.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/user/username.html.twig&#039; --&gt;
+&lt;span&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--article.html.twig
+   x field--node--created.html.twig
+   * field--node--article.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;time&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/time.html.twig&#039; --&gt;
+&lt;time datetime=&quot;2024-03-11T01:14:29+00:00&quot; title=&quot;2024年3月11日(月曜日) - 01:14&quot; class=&quot;datetime&quot;&gt;2024/03/11(月) - 01:14&lt;/time&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/time.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * links--node.html.twig
+   x links--inline.html.twig
+   * links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig&#039; --&gt;
+
+
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Mon, 11 Mar 2024 01:14:29 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">9 at http://127.0.0.1</guid>
+    </item>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig' -->
+<item>
   <title>【開催まで1週間】イベント申し込みが100名を超えました！</title>
   <link>http://127.0.0.1/ja/article/coming-event-within-1-weeks</link>
   <description>
