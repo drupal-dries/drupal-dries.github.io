@@ -7,6 +7,20 @@
     <language>ja</language>
     
     <item>
+  <title>当日の受付方法について</title>
+  <link>http://127.0.0.1/ja/article/how-entry</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;当日の受付方法について&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-13T06:05:10+00:00" title="2024年3月13日(水曜日) - 06:05" class="datetime"&gt;2024/03/13(水) - 06:05&lt;/time&gt;
+&lt;/span&gt;
+
+
+</description>
+  <pubDate>Wed, 13 Mar 2024 06:05:10 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">12 at http://127.0.0.1</guid>
+    </item>
+<item>
   <title>ドリスの似顔絵ステッカーを作成しました！</title>
   <link>http://127.0.0.1/ja/article/we-created-event-sticker</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ドリスの似顔絵ステッカーを作成しました！&lt;/span&gt;
