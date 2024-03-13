@@ -7,32 +7,62 @@
     <language>en</language>
     
     <item>
-  <title>The Drop Timesでインタビュー記事が公開</title>
-  <link>http://127.0.0.1/ja/article/interview-article-published-thedroptimes</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;An interview published in The Drop Times&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-11T23:34:08+00:00" title="Monday, March 11, 2024 - 23:34" class="datetime"&gt;Mon, 03/11/2024 - 23:34&lt;/time&gt;
+  <title>丸山 ひかる</title>
+  <link>http://127.0.0.1/ja/person/hikaru-maruyama</link>
+  <description>&lt;div class="node node--type-person node--view-mode-rss ds-1col clearfix"&gt;
+
+  
+
+  
+&lt;div class="row justify-content-md-center py-5 my-5"&gt;
+      
+&lt;div class="col-md"&gt;
+      
+            &lt;div class="img-fluid field field--name-field-media field--type-entity-reference field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="http://127.0.0.1/sites/default/files/2024-03/T025J29S7-ULXN2KBCK-bc9c81349b5a-512.jpeg" width="512" height="512" alt="丸山 ひかる"&gt;
+
+&lt;/div&gt;
+      
+
+  &lt;/div&gt;
+
+&lt;div class="col-md-8"&gt;
+      
+            &lt;div class="field field--name-node-title field--type-ds field--label-hidden field__item"&gt;&lt;h1 class="py-3"&gt;
+  Hikaru Maruyama
+&lt;/h1&gt;
+&lt;/div&gt;
+      
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Hikaru brings over 5 years of experience as a software engineer to the table, with a particular focus on Drupal since 2019. As one of the organizers of the Drupal Meetup Tokyo since 2022, she actively contributes to Japanese local Drupal community. Her professional certifications include AWS Certified Solutions Architect, Certified Scrum Product Owner, and Certified Scrum Master.&lt;/p&gt;&lt;/div&gt;
+      
+
+            &lt;div class="field field--name-dynamic-twig-fieldnode-drupal-account field--type-ds field--label-hidden field__item"&gt;&lt;span&gt;
+&lt;a class="btn btn-light btn-lg" href="https://www.drupal.org/u/hmaruyama" target="_blank"&gt;&lt;i class="fab fa-drupal"&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/span&gt;
+&lt;span&gt;
+&lt;a class="btn btn-light btn-lg" href="https://twitter.com/maruyamahiakru" target="_blank"&gt;&lt;i class="fa-brands fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+      
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
 
 
 </description>
-  <pubDate>Mon, 11 Mar 2024 07:36:53 +0000</pubDate>
+  <pubDate>Thu, 07 Mar 2024 06:39:38 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">10 at http://127.0.0.1</guid>
-    </item>
-<item>
-  <title>サイトをオープンしました！</title>
-  <link>http://127.0.0.1/ja/article/published-event-website</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;An event website launched!&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-11T01:30:09+00:00" title="Monday, March 11, 2024 - 01:30" class="datetime"&gt;Mon, 03/11/2024 - 01:30&lt;/time&gt;
-&lt;/span&gt;
-
-
-</description>
-  <pubDate>Mon, 11 Mar 2024 01:14:29 +0000</pubDate>
-    <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">9 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">4 at http://127.0.0.1</guid>
     </item>
 <item>
   <title>丸山 ひかる</title>
@@ -93,18 +123,18 @@
     <guid isPermaLink="false">4 at http://127.0.0.1</guid>
     </item>
 <item>
-  <title>【開催まで1週間】イベント申し込みが100名を超えました！</title>
-  <link>http://127.0.0.1/ja/article/coming-event-within-1-weeks</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;More than 100 people have registered for the event!&lt;/span&gt;
+  <title>ドリスのブログ記事が公開されました！</title>
+  <link>http://127.0.0.1/ja/article/introducing-dries-blog-article</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dries's blog post was published!&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-09T01:05:33+00:00" title="Saturday, March 9, 2024 - 01:05" class="datetime"&gt;Sat, 03/09/2024 - 01:05&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-04T01:17:19+00:00" title="Monday, March 4, 2024 - 01:17" class="datetime"&gt;Mon, 03/04/2024 - 01:17&lt;/time&gt;
 &lt;/span&gt;
 
 
 </description>
-  <pubDate>Sat, 09 Mar 2024 09:08:26 +0000</pubDate>
+  <pubDate>Mon, 04 Mar 2024 09:01:19 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">8 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">7 at http://127.0.0.1</guid>
     </item>
 <item>
   <title>ドリスのブログ記事が公開されました！</title>
@@ -133,6 +163,150 @@
   <pubDate>Fri, 23 Feb 2024 08:28:00 +0000</pubDate>
     <dc:creator>admin</dc:creator>
     <guid isPermaLink="false">5 at http://127.0.0.1</guid>
+    </item>
+<item>
+  <title>【開催まで3週間】イベントを一緒に盛り上げよう！</title>
+  <link>http://127.0.0.1/ja/article/coming-event-within-3-weeks</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Let's make the event happen together!&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-02-23T01:17:52+00:00" title="Friday, February 23, 2024 - 01:17" class="datetime"&gt;Fri, 02/23/2024 - 01:17&lt;/time&gt;
+&lt;/span&gt;
+
+
+</description>
+  <pubDate>Fri, 23 Feb 2024 08:28:00 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">5 at http://127.0.0.1</guid>
+    </item>
+<item>
+  <title>【開催まで1週間】イベント申し込みが100名を超えました！</title>
+  <link>http://127.0.0.1/ja/article/coming-event-within-1-weeks</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;More than 100 people have registered for the event!&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-09T01:05:33+00:00" title="Saturday, March 9, 2024 - 01:05" class="datetime"&gt;Sat, 03/09/2024 - 01:05&lt;/time&gt;
+&lt;/span&gt;
+
+
+</description>
+  <pubDate>Sat, 09 Mar 2024 09:08:26 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">8 at http://127.0.0.1</guid>
+    </item>
+<item>
+  <title>【開催まで1週間】イベント申し込みが100名を超えました！</title>
+  <link>http://127.0.0.1/ja/article/coming-event-within-1-weeks</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;More than 100 people have registered for the event!&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-09T01:05:33+00:00" title="Saturday, March 9, 2024 - 01:05" class="datetime"&gt;Sat, 03/09/2024 - 01:05&lt;/time&gt;
+&lt;/span&gt;
+
+
+</description>
+  <pubDate>Sat, 09 Mar 2024 09:08:26 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">8 at http://127.0.0.1</guid>
+    </item>
+<item>
+  <title>Home</title>
+  <link>http://127.0.0.1/ja/home</link>
+  <description>&lt;div class="node node--type-page node--view-mode-rss ds-1col clearfix"&gt;
+
+  
+
+  
+&lt;div class="row gx-5 align-items-center"&gt;
+      
+&lt;div class="col-md"&gt;
+            &lt;div class="px-3"&gt;
+        
+            
+            &lt;div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="http://127.0.0.1/sites/default/files/styles/large/public/2024-03/20240309_155429_0000.png?itok=4h--yAhZ" width="422" height="399" alt="dries" class="image-style-large"&gt;
+
+
+&lt;/div&gt;
+      
+
+      
+  
+    &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+&lt;div class="col-md"&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;h1&gt;&lt;strong&gt;Drupal Networking with Dries in Tokyo 2024&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Dries Buytaert will be visiting Japan for the first time in almost 8 years to present the latest developments of Drupal and surrounding web technologies, a great opportunity to interact and learn about the latest technology trends around Drupal!&lt;/p&gt;&lt;p&gt;&lt;a class="btn btn-secondary" href="https://connpass.com/event/307570/" type="button"&gt;&lt;strong&gt;Register Here!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+</description>
+  <pubDate>Sat, 09 Mar 2024 07:46:47 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">6 at http://127.0.0.1</guid>
+    </item>
+<item>
+  <title>Home</title>
+  <link>http://127.0.0.1/ja/home</link>
+  <description>&lt;div class="node node--type-page node--view-mode-rss ds-1col clearfix"&gt;
+
+  
+
+  
+&lt;div class="row gx-5 align-items-center"&gt;
+      
+&lt;div class="col-md"&gt;
+            &lt;div class="px-3"&gt;
+        
+            
+            &lt;div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="http://127.0.0.1/sites/default/files/styles/large/public/2024-03/20240309_155429_0000.png?itok=4h--yAhZ" width="422" height="399" alt="dries" class="image-style-large"&gt;
+
+
+&lt;/div&gt;
+      
+
+      
+  
+    &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+&lt;div class="col-md"&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;h1&gt;&lt;strong&gt;Drupal Networking with Dries in Tokyo 2024&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Dries Buytaert will be visiting Japan for the first time in almost 8 years to present the latest developments of Drupal and surrounding web technologies, a great opportunity to interact and learn about the latest technology trends around Drupal!&lt;/p&gt;&lt;p&gt;&lt;a class="btn btn-secondary" href="https://connpass.com/event/307570/" type="button"&gt;&lt;strong&gt;Register Here!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+</description>
+  <pubDate>Sat, 09 Mar 2024 07:46:47 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">6 at http://127.0.0.1</guid>
     </item>
 
   </channel>
