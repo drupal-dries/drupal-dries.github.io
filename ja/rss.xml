@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://127.0.0.1/ja">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://drupal-dries.github.io/ja">
   <channel>
     <title>ドリスと語るDrupal交流会 2024</title>
-    <link>http://127.0.0.1/ja</link>
+    <link>https://drupal-dries.github.io/ja</link>
     <description/>
     <language>ja</language>
     
     <item>
   <title>【開催レポート その1】当日の来場数と参加者属性</title>
-  <link>http://127.0.0.1/ja/article/event-highlights</link>
+  <link>https://drupal-dries.github.io/ja/article/event-highlights</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;【開催レポート その1】当日の来場数と参加者属性&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-17T04:21:51+00:00" title="2024年3月17日(日曜日) - 04:21" class="datetime"&gt;2024/03/17(日) - 04:21&lt;/time&gt;
@@ -18,11 +18,11 @@
 </description>
   <pubDate>Sun, 17 Mar 2024 04:21:51 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">13 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">13 at https://drupal-dries.github.io</guid>
     </item>
 <item>
   <title>当日の受付方法について</title>
-  <link>http://127.0.0.1/ja/article/how-entry</link>
+  <link>https://drupal-dries.github.io/ja/article/how-entry</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;当日の受付方法について&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-13T06:05:10+00:00" title="2024年3月13日(水曜日) - 06:05" class="datetime"&gt;2024/03/13(水) - 06:05&lt;/time&gt;
@@ -32,11 +32,11 @@
 </description>
   <pubDate>Wed, 13 Mar 2024 06:05:10 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">12 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">12 at https://drupal-dries.github.io</guid>
     </item>
 <item>
   <title>ドリスの似顔絵ステッカーを作成しました！</title>
-  <link>http://127.0.0.1/ja/article/we-created-event-sticker</link>
+  <link>https://drupal-dries.github.io/ja/article/we-created-event-sticker</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ドリスの似顔絵ステッカーを作成しました！&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-13T01:30:13+00:00" title="2024年3月13日(水曜日) - 01:30" class="datetime"&gt;2024/03/13(水) - 01:30&lt;/time&gt;
@@ -46,11 +46,11 @@
 </description>
   <pubDate>Wed, 13 Mar 2024 01:30:13 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">11 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">11 at https://drupal-dries.github.io</guid>
     </item>
 <item>
   <title>The Drop Timesでインタビュー記事が公開</title>
-  <link>http://127.0.0.1/ja/article/interview-article-published-thedroptimes</link>
+  <link>https://drupal-dries.github.io/ja/article/interview-article-published-thedroptimes</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;The Drop Timesでインタビュー記事が公開&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-11T07:36:53+00:00" title="2024年3月11日(月曜日) - 07:36" class="datetime"&gt;2024/03/11(月) - 07:36&lt;/time&gt;
@@ -60,11 +60,11 @@
 </description>
   <pubDate>Mon, 11 Mar 2024 07:36:53 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">10 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">10 at https://drupal-dries.github.io</guid>
     </item>
 <item>
   <title>サイトをオープンしました！</title>
-  <link>http://127.0.0.1/ja/article/published-event-website</link>
+  <link>https://drupal-dries.github.io/ja/article/published-event-website</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;サイトをオープンしました！&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-11T01:14:29+00:00" title="2024年3月11日(月曜日) - 01:14" class="datetime"&gt;2024/03/11(月) - 01:14&lt;/time&gt;
@@ -74,11 +74,11 @@
 </description>
   <pubDate>Mon, 11 Mar 2024 01:14:29 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">9 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">9 at https://drupal-dries.github.io</guid>
     </item>
 <item>
   <title>【開催まで1週間】イベント申し込みが100名を超えました！</title>
-  <link>http://127.0.0.1/ja/article/coming-event-within-1-weeks</link>
+  <link>https://drupal-dries.github.io/ja/article/coming-event-within-1-weeks</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;【開催まで1週間】イベント申し込みが100名を超えました！&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-09T09:08:26+00:00" title="2024年3月9日(土曜日) - 09:08" class="datetime"&gt;2024/03/09(土) - 09:08&lt;/time&gt;
@@ -88,11 +88,11 @@
 </description>
   <pubDate>Sat, 09 Mar 2024 09:08:26 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">8 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">8 at https://drupal-dries.github.io</guid>
     </item>
 <item>
   <title>丸山 ひかる</title>
-  <link>http://127.0.0.1/ja/person/hikaru-maruyama</link>
+  <link>https://drupal-dries.github.io/ja/person/hikaru-maruyama</link>
   <description>&lt;div class="node node--type-person node--view-mode-rss ds-1col clearfix"&gt;
 
   
@@ -102,7 +102,7 @@
       
 &lt;div class="col-md"&gt;
       
-            &lt;div class="img-fluid field field--name-field-media field--type-entity-reference field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="http://127.0.0.1/sites/default/files/2024-03/T025J29S7-ULXN2KBCK-bc9c81349b5a-512.jpeg" width="512" height="512" alt="丸山 ひかる"&gt;
+            &lt;div class="img-fluid field field--name-field-media field--type-entity-reference field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://drupal-dries.github.io/sites/default/files/2024-03/T025J29S7-ULXN2KBCK-bc9c81349b5a-512.jpeg" width="512" height="512" alt="丸山 ひかる"&gt;
 
 &lt;/div&gt;
       
@@ -146,11 +146,11 @@
 </description>
   <pubDate>Thu, 07 Mar 2024 06:39:38 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">4 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">4 at https://drupal-dries.github.io</guid>
     </item>
 <item>
   <title>ドリスのブログ記事が公開されました！</title>
-  <link>http://127.0.0.1/ja/article/introducing-dries-blog-article</link>
+  <link>https://drupal-dries.github.io/ja/article/introducing-dries-blog-article</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ドリスのブログ記事が公開されました！&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-04T09:01:19+00:00" title="2024年3月4日(月曜日) - 09:01" class="datetime"&gt;2024/03/04(月) - 09:01&lt;/time&gt;
@@ -160,11 +160,11 @@
 </description>
   <pubDate>Mon, 04 Mar 2024 09:01:19 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">7 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">7 at https://drupal-dries.github.io</guid>
     </item>
 <item>
   <title>【開催まで3週間】イベントを一緒に盛り上げよう！</title>
-  <link>http://127.0.0.1/ja/article/coming-event-within-3-weeks</link>
+  <link>https://drupal-dries.github.io/ja/article/coming-event-within-3-weeks</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;【開催まで3週間】イベントを一緒に盛り上げよう！&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-02-23T08:28:00+00:00" title="2024年2月23日(金曜日) - 08:28" class="datetime"&gt;2024/02/23(金) - 08:28&lt;/time&gt;
@@ -174,7 +174,7 @@
 </description>
   <pubDate>Fri, 23 Feb 2024 08:28:00 +0000</pubDate>
     <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">5 at http://127.0.0.1</guid>
+    <guid isPermaLink="false">5 at https://drupal-dries.github.io</guid>
     </item>
 
   </channel>
