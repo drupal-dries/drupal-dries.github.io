@@ -7,6 +7,20 @@
     <language>en</language>
     
     <item>
+  <title>ドリスのQ&amp;Aセッションまとめ</title>
+  <link>https://drupal-dries.github.io/ja/article/questions-and-answers-session-dries</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Wrap-up of Dries's Q&amp;amp;A session&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-26T07:00:30+00:00" title="Tuesday, March 26, 2024 - 07:00" class="datetime"&gt;Tue, 03/26/2024 - 07:00&lt;/time&gt;
+&lt;/span&gt;
+
+
+</description>
+  <pubDate>Wed, 20 Mar 2024 01:08:29 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">14 at https://drupal-dries.github.io</guid>
+    </item>
+<item>
   <title>【開催レポート その1】当日の来場数と参加者属性</title>
   <link>https://drupal-dries.github.io/ja/article/event-highlights</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Highlights part 1: Attendees numbers and demographics&lt;/span&gt;
