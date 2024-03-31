@@ -134,14 +134,20 @@
   <loc>https://drupal-dries.github.io/ja/article/questions-and-answers-session-dries</loc>
   <xhtml:link rel="alternate" hreflang="ja" href="https://drupal-dries.github.io/ja/article/questions-and-answers-session-dries"/>
   <xhtml:link rel="alternate" hreflang="en" href="https://drupal-dries.github.io/en/article/questions-and-answers-session-dries"/>
-  <lastmod>2024-03-26T23:28:00+00:00</lastmod>
+  <lastmod>2024-03-28T03:38:01+00:00</lastmod>
   <priority>0.5</priority>
  </url>
  <url>
   <loc>https://drupal-dries.github.io/en/article/questions-and-answers-session-dries</loc>
   <xhtml:link rel="alternate" hreflang="ja" href="https://drupal-dries.github.io/ja/article/questions-and-answers-session-dries"/>
   <xhtml:link rel="alternate" hreflang="en" href="https://drupal-dries.github.io/en/article/questions-and-answers-session-dries"/>
-  <lastmod>2024-03-26T23:28:00+00:00</lastmod>
+  <lastmod>2024-03-28T03:38:01+00:00</lastmod>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://drupal-dries.github.io/ja/article/event-photos</loc>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://drupal-dries.github.io/ja/article/event-photos"/>
+  <lastmod>2024-03-30T00:25:25+00:00</lastmod>
   <priority>0.5</priority>
  </url>
 </urlset>

@@ -7,6 +7,20 @@
     <language>en</language>
     
     <item>
+  <title>写真を公開しました！</title>
+  <link>https://drupal-dries.github.io/ja/article/event-photos</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Check out the event photos&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-03-31T09:54:21+00:00" title="Sunday, March 31, 2024 - 09:54" class="datetime"&gt;Sun, 03/31/2024 - 09:54&lt;/time&gt;
+&lt;/span&gt;
+
+
+</description>
+  <pubDate>Sun, 31 Mar 2024 09:04:02 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">15 at https://drupal-dries.github.io</guid>
+    </item>
+<item>
   <title>ドリスのQ&amp;Aセッションまとめ</title>
   <link>https://drupal-dries.github.io/ja/article/questions-and-answers-session-dries</link>
   <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Wrap-up of Dries's Q&amp;amp;A session&lt;/span&gt;
@@ -175,20 +189,6 @@
   <pubDate>Mon, 04 Mar 2024 09:01:19 +0000</pubDate>
     <dc:creator>admin</dc:creator>
     <guid isPermaLink="false">7 at https://drupal-dries.github.io</guid>
-    </item>
-<item>
-  <title>【開催まで3週間】イベントを一緒に盛り上げよう！</title>
-  <link>https://drupal-dries.github.io/ja/article/coming-event-within-3-weeks</link>
-  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Let's make the event happen together!&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2024-02-23T01:17:52+00:00" title="Friday, February 23, 2024 - 01:17" class="datetime"&gt;Fri, 02/23/2024 - 01:17&lt;/time&gt;
-&lt;/span&gt;
-
-
-</description>
-  <pubDate>Fri, 23 Feb 2024 08:28:00 +0000</pubDate>
-    <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">5 at https://drupal-dries.github.io</guid>
     </item>
 
   </channel>
